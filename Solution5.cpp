@@ -6,7 +6,7 @@
 #define FAST ios_base::sync_with_stdio(false); cin.tie(NULL);
 using namespace std;
 
-int solve(){
+int matrix(){
     int n,k;
     cin>>n>>k;
     if(n==2 && k==2){
@@ -247,7 +247,7 @@ int main()
     int test=1;
     while(t--){
         cout<<"Case #"<<test<<": ";
-        solve();
+        matrix();
         test++;
     }
     return 0;
