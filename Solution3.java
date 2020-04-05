@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Question3 {
+public class Solution3 {
 
 
     static class Reader {
